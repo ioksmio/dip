@@ -1,5 +1,3 @@
-Demo04.md
-
 Instanciate a Wordpress application using Kubernetes with Yaml Files 
 ---
 Deploying WordPress and MySQL with Persistent Volumes
