@@ -36,7 +36,7 @@ ___
 #### Start a new Apache Webserver
 
 ```
-kubectl run my-apache --image httpd
+kubectl create deployment my-apache --image httpd
 ```
 
 #### Show the objects that have been deployed
